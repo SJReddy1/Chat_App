@@ -35,3 +35,28 @@
 <li> npm install </li>
 <li> npm start </li>
 </ul>
+
+Create .env for both backend and frontend separately.
+
+🌎 Deployment Guide
+✅ Deploy Backend on Render
+Push your backend to GitHub.
+
+Go to Render → New Web Service.
+
+Connect to your GitHub repository.
+
+Set Render’s Environment Variables.
+
+Deploy! 🎉
+
+✅ Deploy Frontend on Vercel
+Push your frontend to GitHub.
+
+Go to Vercel → Import Project.
+
+Select your GitHub repository.
+
+Set Vercel’s Environment Variables.
+
+Deploy! 🎉
