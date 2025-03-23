@@ -5,7 +5,7 @@ import { io } from "socket.io-client";
 import * as types from "../redux/appReducer/actionType";
 import { useDispatch } from "react-redux";
 
-const ENDPOINT="http://localhost:8001"
+const ENDPOINT= process.env.REACT_APP_API_ENDPOINT || "http://localhost:8001"
 
 const Home = () => {
   const [socketConnected, setSocketConnected] = useState(false);
