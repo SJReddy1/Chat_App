@@ -1,6 +1,6 @@
 # Chat_App
 ## Real-Time Chat Application
-
+🚀 Live Demo: [Chat App](https://chat-app-livid-alpha-26.vercel.app/)  
 
   Welcome to the Real-Time Chat Application! This is a full-stack project built using React.js, Node.js, Express.js, MongoDB, Tailwind CSS, and Redux. The application provides an intuitive and user-friendly interface for users to engage in real-time conversations with others. It incorporates a range of features such as sign up, sign in, logout, profile image customization, user search, one-to-one chat, group creation, group chat, group administration, and message notifications.
 
