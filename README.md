@@ -38,25 +38,25 @@
 
 Create .env for both backend and frontend separately.
 
-🌎 Deployment Guide
+## 🌎 Deployment Guide
 ✅ Deploy Backend on Render
-Push your backend to GitHub.
+- Push your backend to GitHub.
 
-Go to Render → New Web Service.
+- Go to Render → New Web Service.
 
-Connect to your GitHub repository.
+- Connect to your GitHub repository.
 
-Set Render’s Environment Variables.
+- Set Render’s Environment Variables.
 
 Deploy! 🎉
 
 ✅ Deploy Frontend on Vercel
-Push your frontend to GitHub.
+- Push your frontend to GitHub.
 
-Go to Vercel → Import Project.
+- Go to Vercel → Import Project.
 
-Select your GitHub repository.
+- Select your GitHub repository.
 
-Set Vercel’s Environment Variables.
+- Set Vercel’s Environment Variables.
 
 Deploy! 🎉
